@@ -48,9 +48,10 @@ portfolios/
    - **Online Learning Management System (LMS)** (Full-Stack web platform)
    - **Interactive Chat Application** (React, JavaScript, HTML5, CSS3)
    - **IoT Smart Rail Gate System** (Sensors, Microcontrollers, Automation)
-5. **Education & Certifications**: Visual timeline covering **BCA at Brainware University** and schooling, paired with verified credential badges (**IBM Front-End Technologies** and **TechFusion-A Seminar**).
-6. **Contact & Connect**: Direct contact details, quick email copy button, and an interactive message inquiry form.
-7. **Footer**: Quick navigation links, social branding, and dynamic auto-updating copyright year.
+5. **Education**: Visual timeline covering **BCA at Brainware University** (92.51% average) and high school honors.
+6. **Certificates & Credentials**: Verified credential cards for **IBM Front-End Technologies** (with live verification link) and **TechFusion-A Seminar** certificate.
+7. **Contact & Connect**: Direct contact details, quick email copy button with fallback, and an interactive message inquiry form.
+8. **Footer & Back to Top**: Quick navigation links, social branding, auto-updating copyright year, and a floating smooth back-to-top trigger.
 
 ---
 
